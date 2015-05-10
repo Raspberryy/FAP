@@ -14,3 +14,7 @@ To run this programm you have to open up a new terminal and navigate to the down
 
 If it doesn't work, you maybe have to restart your computer. 
 
+NOTE: This programm still has some bugs, which need to be fixed!  
+       - After you have turned the python programm off, you can't run it again without restarting your pc.
+       - The programm doens't disable the monitor-mode automaticaly
+       - There is no exit --> Just close the terminals 
