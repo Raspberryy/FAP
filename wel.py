@@ -23,7 +23,7 @@ print ""
 fapv = input(" Enter Vector:  ")
 if fapv == 1:
 	os.system("clear")
-	os.system("cat ./read")
+	os.system("cat ./README.txt")
 	time.sleep(5)
 	execfile("./wel.py")	
 elif fapv == 2:
